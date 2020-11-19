@@ -7,31 +7,31 @@
       "trained": false
     },
     {
-      "_id": 1,
-      "name": "pi-case",
-      "mold": "SG24",
+      "_id": 2,
+      "name": "maeander",
+      "mold": "SG22",
+      "machine": "Engel",
+      "trained": true
+    },
+    {
+      "_id": 3,
+      "name": "plate",
+      "mold": "SG112",
       "machine": "Arburg",
       "trained": false
     },
     {
-      "_id": 1,
-      "name": "pi-case",
-      "mold": "SG24",
-      "machine": "Arburg",
-      "trained": false
+      "_id": 4,
+      "name": "lamp",
+      "mold": "SG342",
+      "machine": "Sumitomo",
+      "trained": true
     },
     {
-      "_id": 1,
-      "name": "pi-case",
-      "mold": "SG24",
-      "machine": "Arburg",
-      "trained": false
-    },
-    {
-      "_id": 1,
-      "name": "pi-case",
-      "mold": "SG24",
-      "machine": "Arburg",
+      "_id": 5,
+      "name": "pinoccio",
+      "mold": "SG224",
+      "machine": "Demag",
       "trained": false
     }
   ]
