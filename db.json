@@ -3,329 +3,34 @@
     "name": "pi-case",
     "mold": "SG24",
     "machine": "Arburg",
-    "trained": false,
-    "doe": {
-      "type": "full",
-      "quality_objecives": [
-        "weight",
-        "max_pressure"
-      ],
-      "variables": [
-        "melt_temperature",
-        "injection_speed"
-      ],
-      "steps": [
-        [240, 280],
-        [50, 100]
-      ]
-    },
-    "trial_points": [{
-        "id": 0,
-        "variation": [0, 0],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 1,
-        "variation": [0, 1],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 2,
-        "variation": [1, 0],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 3,
-        "variation": [1, 1],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      }
-    ]
+    "trained": false
   },
   {
     "_id": 1,
     "name": "pi-case",
     "mold": "SG24",
     "machine": "Arburg",
-    "trained": false,
-    "doe": {
-      "type": "full",
-      "quality_objecives": [
-        "weight",
-        "max_pressure"
-      ],
-      "variables": [
-        "melt_temperature",
-        "injection_speed"
-      ],
-      "steps": [
-        [240, 280],
-        [50, 100]
-      ]
-    },
-    "trial_points": [{
-        "id": 0,
-        "variation": [0, 0],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 1,
-        "variation": [0, 1],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 2,
-        "variation": [1, 0],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 3,
-        "variation": [1, 1],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      }
-    ]
+    "trained": false
   },
   {
     "_id": 1,
     "name": "pi-case",
     "mold": "SG24",
     "machine": "Arburg",
-    "trained": false,
-    "doe": {
-      "type": "full",
-      "quality_objecives": [
-        "weight",
-        "max_pressure"
-      ],
-      "variables": [
-        "melt_temperature",
-        "injection_speed"
-      ],
-      "steps": [
-        [240, 280],
-        [50, 100]
-      ]
-    },
-    "trial_points": [{
-        "id": 0,
-        "variation": [0, 0],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 1,
-        "variation": [0, 1],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 2,
-        "variation": [1, 0],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 3,
-        "variation": [1, 1],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      }
-    ]
+    "trained": false
   },
   {
     "_id": 1,
     "name": "pi-case",
     "mold": "SG24",
     "machine": "Arburg",
-    "trained": false,
-    "doe": {
-      "type": "full",
-      "quality_objecives": [
-        "weight",
-        "max_pressure"
-      ],
-      "variables": [
-        "melt_temperature",
-        "injection_speed"
-      ],
-      "steps": [
-        [240, 280],
-        [50, 100]
-      ]
-    },
-    "trial_points": [{
-        "id": 0,
-        "variation": [0, 0],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 1,
-        "variation": [0, 1],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 2,
-        "variation": [1, 0],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 3,
-        "variation": [1, 1],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      }
-    ]
+    "trained": false
   },
   {
     "_id": 1,
     "name": "pi-case",
     "mold": "SG24",
     "machine": "Arburg",
-    "trained": false,
-    "doe": {
-      "type": "full",
-      "quality_objecives": [
-        "weight",
-        "max_pressure"
-      ],
-      "variables": [
-        "melt_temperature",
-        "injection_speed"
-      ],
-      "steps": [
-        [240, 280],
-        [50, 100]
-      ]
-    },
-    "trial_points": [{
-        "id": 0,
-        "variation": [0, 0],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 1,
-        "variation": [0, 1],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 2,
-        "variation": [1, 0],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 3,
-        "variation": [1, 1],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      }
-    ]
-  },
-  {
-    "_id": 1,
-    "name": "pi-case",
-    "mold": "SG24",
-    "machine": "Arburg",
-    "trained": false,
-    "doe": {
-      "type": "full",
-      "quality_objecives": [
-        "weight",
-        "max_pressure"
-      ],
-      "variables": [
-        "melt_temperature",
-        "injection_speed"
-      ],
-      "steps": [
-        [240, 280],
-        [50, 100]
-      ]
-    },
-    "trial_points": [{
-        "id": 0,
-        "variation": [0, 0],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 1,
-        "variation": [0, 1],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 2,
-        "variation": [1, 0],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      },
-      {
-        "id": 3,
-        "variation": [1, 1],
-        "quality_objectives": {
-          "experiment": [13.2, 839.50],
-          "simulation": [12.4, 825.14]
-        }
-      }
-    ]
+    "trained": false
   }
 ]
