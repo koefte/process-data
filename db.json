@@ -1,36 +1,38 @@
-[{
-    "_id": 1,
-    "name": "pi-case",
-    "mold": "SG24",
-    "machine": "Arburg",
-    "trained": false
-  },
-  {
-    "_id": 1,
-    "name": "pi-case",
-    "mold": "SG24",
-    "machine": "Arburg",
-    "trained": false
-  },
-  {
-    "_id": 1,
-    "name": "pi-case",
-    "mold": "SG24",
-    "machine": "Arburg",
-    "trained": false
-  },
-  {
-    "_id": 1,
-    "name": "pi-case",
-    "mold": "SG24",
-    "machine": "Arburg",
-    "trained": false
-  },
-  {
-    "_id": 1,
-    "name": "pi-case",
-    "mold": "SG24",
-    "machine": "Arburg",
-    "trained": false
-  }
-]
+{
+  "process": [{
+      "_id": 1,
+      "name": "pi-case",
+      "mold": "SG24",
+      "machine": "Arburg",
+      "trained": false
+    },
+    {
+      "_id": 1,
+      "name": "pi-case",
+      "mold": "SG24",
+      "machine": "Arburg",
+      "trained": false
+    },
+    {
+      "_id": 1,
+      "name": "pi-case",
+      "mold": "SG24",
+      "machine": "Arburg",
+      "trained": false
+    },
+    {
+      "_id": 1,
+      "name": "pi-case",
+      "mold": "SG24",
+      "machine": "Arburg",
+      "trained": false
+    },
+    {
+      "_id": 1,
+      "name": "pi-case",
+      "mold": "SG24",
+      "machine": "Arburg",
+      "trained": false
+    }
+  ]
+}
