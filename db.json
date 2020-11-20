@@ -1,34 +1,34 @@
 {
   "process": [{
-      "_id": 1,
+      "_id": "0ecd0bc7-b575-4c55-a5ae-2d10f870dcc6",
       "name": "pi-case",
       "mold": "SG24",
       "machine": "Arburg",
       "trained": false
     },
     {
-      "_id": 2,
+      "_id": "677d49fc-5bb4-42eb-b293-80e0649e0ddc",
       "name": "maeander",
       "mold": "SG22",
       "machine": "Engel",
       "trained": true
     },
     {
-      "_id": 3,
+      "_id": "6018906e-3c28-4673-a57f-8eb05def15b1",
       "name": "plate",
       "mold": "SG112",
       "machine": "Arburg",
       "trained": false
     },
     {
-      "_id": 4,
+      "_id": "96f6df02-b707-4425-a71d-a6765515f18a",
       "name": "lamp",
       "mold": "SG342",
       "machine": "Sumitomo",
       "trained": true
     },
     {
-      "_id": 5,
+      "_id": "b7983e71-4e29-4b50-83ad-6e092ebbf8a2",
       "name": "pinoccio",
       "mold": "SG224",
       "machine": "Demag",
