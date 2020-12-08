@@ -85,40 +85,40 @@
         "id": 0,
         "parameter_combination": [0, 0],
         "test": {
-          "warpage": 12.4,
+          "warpage": 12.4
         },
         "sim": {
-          "warpage": 13.6,
+          "warpage": 13.6
         }
       },
       {
         "id": 1,
         "parameter_combination": [0, 1],
         "test": {
-          "warpage": 12.4,
+          "warpage": 12.4
         },
         "sim": {
-          "warpage": 12.4,
+          "warpage": 12.4
         }
       },
       {
         "id": 2,
         "parameter_combination": [1, 0],
         "test": {
-          "warpage": 12.4,
+          "warpage": 12.4
         },
         "sim": {
-          "warpage": 12.9,
+          "warpage": 12.9
         }
       },
       {
         "id": 3,
         "parameter_combination": [1, 1],
         "test": {
-          "warpage": 13.4,
+          "warpage": 13.4
         },
         "sim": {
-          "warpage": 12.2,
+          "warpage": 12.2
         }
       }
     ]
