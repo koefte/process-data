@@ -1,6 +1,6 @@
 {
   "process": [{
-    "id": 1,
+    "id": "1",
     "name": "pi-case",
     "properties": {
       "mold": "SG24",
@@ -18,7 +18,7 @@
     "trial_points": [{}]
   },
   {
-    "id": 2,
+    "id": "2",
     "name": "pinocchio",
     "properties": {
       "mold": "Verbi",
