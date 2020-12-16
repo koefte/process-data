@@ -33,6 +33,23 @@
       ]
     },
     "trial_points": [{}]
+  },
+              {
+    "id": "3",
+    "name": "platte",
+    "properties": {
+      "mold": "SG22",
+      "machine": "Moeter"
+    },
+    "doe": {
+      "type": "full",
+      "parameters": ["mold-temperature"],
+      "units": ["°C"],
+      "steps": [
+        [40, 80]
+      ]
+    },
+    "trial_points": [{}]
   }
 ]
 }
