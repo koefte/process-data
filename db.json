@@ -8,11 +8,12 @@
     },
     "doe": {
       "type": "full",
-      "parameters": ["melt-temperature", "injection-speed"],
-      "units": ["°C","ccm/s"],
+      "parameters": ["melt-temperature", "injection-speed", "max-pressure"],
+      "units": ["°C","ccm/s","bar"],
       "steps": [
         [240, 280],
-        [50, 100]
+        [50, 100, 150, 200],
+        [1000, 1500, 2000]
       ]
     },
     "trial_points": [{}]
