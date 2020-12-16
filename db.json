@@ -27,10 +27,11 @@
     },
     "doe": {
       "type": "full",
-      "parameters": ["melt-temperature"],
+      "parameters": ["melt-temperature","injection-speed"],
       "units": ["°C"],
       "steps": [
-        [240, 280]
+        [240, 280],
+        [40,80]
       ]
     },
     "trial_points": [{}]
