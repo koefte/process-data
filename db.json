@@ -1,127 +1,38 @@
 {
   "process": [{
-    "process_id": 1,
-    "process_properties": {
-      "name": "pi-case",
+    "id": 1,
+    "name": "pi-case",
+    "properties": {
       "mold": "SG24",
       "machine": "Arburg"
     },
     "doe": {
       "type": "full",
-      "quality_objecives": ["weight", "max-pressure"],
-      "variables": ["melt-temperature", "injection-speed"],
+      "parameters": ["melt-temperature", "injection-speed"],
+      "units": ["°C","ccm/s"],
       "steps": [
         [240, 280],
         [50, 100]
       ]
     },
-    "trial_points": [{
-        "id": 0,
-        "parameter_combination": [0, 0],
-        "test": {
-          "weight": 12.4,
-          "max-pressure": 829.31
-        },
-        "sim": {
-          "weight": 13.6,
-          "max-pressure": 829.31
-        }
-      },
-      {
-        "id": 1,
-        "parameter_combination": [0, 1],
-        "test": {
-          "weight": 12.4,
-          "max-pressure": 829.31
-        },
-        "sim": {
-          "weight": 12.4,
-          "max-pressure": 829.31
-        }
-      },
-      {
-        "id": 2,
-        "parameter_combination": [1, 0],
-        "test": {
-          "weight": 12.4,
-          "max-pressure": 827.6
-        },
-        "sim": {
-          "weight": 12.9,
-          "max-pressure": 829.31
-        }
-      },
-      {
-        "id": 3,
-        "parameter_combination": [1, 1],
-        "test": {
-          "weight": 13.4,
-          "max-pressure": 853.11
-        },
-        "sim": {
-          "weight": 12.2,
-          "max-pressure": 839.34
-        }
-      }
-    ]
+    "trial_points": [{}]
   },
   {
-    "process_id": 2,
-    "process_properties": {
-      "name": "pinocchio",
+    "id": 2,
+    "name": "pinocchio",
+    "properties": {
       "mold": "Verbi",
       "machine": "Engel"
     },
     "doe": {
-      "type": "fractional",
-      "quality_objecives": ["warpage"],
-      "variables": ["melt-temperature", "injection-speed"],
+      "type": "full",
+      "parameters": ["melt-temperature"],
+      "units": ["°C"],
       "steps": [
-        [240, 280],
-        [50, 100]
+        [240, 280]
       ]
     },
-    "trial_points": [{
-        "id": 0,
-        "parameter_combination": [0, 0],
-        "test": {
-          "warpage": 12.4
-        },
-        "sim": {
-          "warpage": 13.6
-        }
-      },
-      {
-        "id": 1,
-        "parameter_combination": [0, 1],
-        "test": {
-          "warpage": 12.4
-        },
-        "sim": {
-          "warpage": 12.4
-        }
-      },
-      {
-        "id": 2,
-        "parameter_combination": [1, 0],
-        "test": {
-          "warpage": 12.4
-        },
-        "sim": {
-          "warpage": 12.9
-        }
-      },
-      {
-        "id": 3,
-        "parameter_combination": [1, 1],
-        "test": {
-          "warpage": 13.4
-        },
-        "sim": {
-          "warpage": 12.2
-        }
-      }
-    ]
+    "trial_points": [{}]
   }
 ]
 }
